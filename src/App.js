@@ -92,7 +92,9 @@ import {BsCheckLg} from 'react-icons/bs';
     
     <div className='App'>
 
-      <h1>My Todos </h1>
+      <h1 style={{marginBottom : '70px'}}>My Todos </h1>
+
+      
 
       <div className="todo-wrapper">
         <div className="todo-input">
